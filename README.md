@@ -6,7 +6,7 @@
   <img align='center' src="https://s4.gifyu.com/images/8d621f66f551b6a39072473d52280ff09f332a76b008f691.gif"></a>
 </p>
 
-<h1>TopTable </h1>
+<h1>TopTable 🥃 </h1>
 
 <p>
   For this project I inherited another engineers front end calendar reservation service and built out the back end to maintain real time traffic. I enjoyed comparing and documenting both Cassandra and PostgreSQL tradeoffs. After comparing I scaled the service to hit 1375 requests per second from an initial 400 request per second. 

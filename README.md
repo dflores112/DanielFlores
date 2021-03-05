@@ -15,6 +15,7 @@ Two Cities
 Database Takehome
 ---
 
+Actively searching for a Software Engineering position, interested in Front End
 Currently working on attaining my AWS Solutions Architect Associate certification
 
 <p align='center'>For enquiries, reach out @ danielflores125@gmail or over on <a href="https://www.linkedin.com/in/daniel-flores-52367273/">LinkedIn</a>.</p>

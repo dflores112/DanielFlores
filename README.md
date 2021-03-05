@@ -1,5 +1,5 @@
 
-<h2 align='center'><i>Daniel Flores</i></h2>
+<h2 align='center'>Daniel Flores</h2>
 
 
 <p align='center'>

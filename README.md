@@ -1,5 +1,7 @@
 
 <h2 align='center'>Daniel Flores</h2>
+<p align='center'> Actively searching for a Software Engineering position, interested in Front End. </p>
+<p align='center'>Feel free to reach out to danielflores125@gmail or over on <a href="https://www.linkedin.com/in/daniel-flores-52367273/">LinkedIn</a>.</p>
 
 
 <p align='center'>
@@ -35,10 +37,8 @@
 
 ---
 
-<p align='center'> Actively searching for a Software Engineering position, interested in Front End. </p>
 
 <p align='center'> Currently working on attaining my AWS Solutions Architect Associate certification. </p>
 
-<p align='center'>Feel free to reach out to danielflores125@gmail or over on <a href="https://www.linkedin.com/in/daniel-flores-52367273/">LinkedIn</a>.</p>
 
 <h2 align='center'><i>Stay hungry!</i></h2>

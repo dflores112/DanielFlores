@@ -14,6 +14,9 @@ Two Cities
 ---
 Database Takehome
 ---
+
+Currently working on attaining my AWS Solutions Architect Associate certification
+
 <p align='center'>For enquiries, reach out @ danielflores125@gmail or over on <a href="https://www.linkedin.com/in/daniel-flores-52367273/">LinkedIn</a>.</p>
 
 <h2 align='center'><i>Stay hungry!</i></h2>

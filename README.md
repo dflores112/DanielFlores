@@ -6,12 +6,12 @@
   <img align='center' src="https://s4.gifyu.com/images/8d621f66f551b6a39072473d52280ff09f332a76b008f691.gif"></a>
 </p>
 
-<h1><a href="https://github.com/dflores112/bookings-service/blob/master/server/app.js">Compared</a>TopTable </h1>
+<h1>TopTable </h1>
 
-<ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1FTzmvDZIVwVWQAJ8UAn0YT6y-7h3yqPhosc3DFkWnUs/edit?usp=sharing">Compared</a> PostgreSQL & Cassandra and determined PostGresSQL was best fit for reservation service based on higher consistency </li>
-  <li> Setup NGINX as a proxy server and established RPS(requests per second) to 1375 by scaling AWS server instances, caching, clustering </li>
-  <li><a href="https://docs.google.com/document/d/1ZsczXgEziBIFaKFH9xzw38X8eaNOVjTWH_-e36UL4as/edit?usp=sharing">Compared</a> is a link to stress test documentation </li>
+<p>
+  For this project I inherited another engineers front end calendar reservation service and built out the back end to maintain real time traffic. I enjoyed comparing and documenting both Cassandra and PostgreSQL tradeoffs. After comparing I scaled the service to hit 1375 requests per second from an initial 400 request per second. 
+</p>
+<a href="https://github.com/dflores112/bookings-service/blob/master/server/app.js">Here is the link to server where I wrote initial DB queries</a>
 </ul>
 
 ---

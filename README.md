@@ -9,7 +9,8 @@
 <h1>TopTable </h1>
 
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1FTzmvDZIVwVWQAJ8UAn0YT6y-7h3yqPhosc3DFkWnUs/edit?usp=sharing">Compared</a> and wrote queries for PostGreSQL and Cassandra databases to determine best fit </li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1FTzmvDZIVwVWQAJ8UAn0YT6y-7h3yqPhosc3DFkWnUs/edit?usp=sharing">Compared</a> PostgreSQL & Cassandra and determined PostGresSQL was best fit for reservation service based on higher consistency </li>
+  <li> Setup NGINX as a proxy server and established RPS(requests per second) to 1375 by scaling AWS server instances, caching, clustering </li>
 </ul>
 
 ---

@@ -15,9 +15,19 @@
 
 
 ---
-Similar Homes
+
+<h2>Similar Homes 🏡 </h2>
+
+<p>
+  For this project I with two other engineers where we developed a housing listing service and each built a custom component using React and deployed using AWS and Docker from scratch. I enjoyed working with Styled-Components while devloping my carousel service and built a custom modal to display saved homes. We held daily standups, performed code reviews, and used Enzyme-Jest testing.
+</p>
+
 ---
-Two Cities
+<h2> 🌉 Two Cities 🌉</h2>
+
+<p>
+  My favorite project I have worked on so far during my development experience where I was able to implement a data visualization library. I was able to use Chart.js to compare different cities based Teleport API data by pullinh different data points and display using a stacked bar chart. I deployed using GitHub Actions for continuous integration and deployment.
+</p>
 ---
 Database Takehome
 ---

@@ -7,6 +7,10 @@
 </p>
 
 TopTable
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1FTzmvDZIVwVWQAJ8UAn0YT6y-7h3yqPhosc3DFkWnUs/edit?usp=sharing">Compared</a> and wrote queries for PostGreSQL and Cassandra databases to determine best fit </li>
+</ul>
+
 ---
 Similar Homes
 ---

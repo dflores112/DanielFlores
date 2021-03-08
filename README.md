@@ -18,7 +18,7 @@
 <p>
   For this project I inherited another engineers front end calendar reservation service and built out the back end to maintain real time traffic. I enjoyed comparing and documenting both Cassandra and PostgreSQL tradeoffs. After comparing I scaled the service to hit 1375 requests per second from an initial 400 requests per second. 
 </p>
-<a href="https://github.com/dflores112/bookings-service/blob/master/server/app.js">Here is the link to server where I wrote initial DB queries</a>
+<a href="https://github.com/dflores112/bookings-service/blob/master/server/app.js">Here is the link to the server where I wrote DB queries</a>
 <h2> Employee Search 🔍</h2>
 
 <p>

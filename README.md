@@ -22,7 +22,7 @@
 <h2> Employee Search 🔍</h2>
 
 <p>
-  Here is a <a href="https://github.com/dflores112/EmployeeSearch">project</a> I worked on that I am proud of due to the short two day time frame where 95% of the application was built within the first day. I used MongoDB to store employee info and built with React on the front end with Styled-Components. I am most proud of the testing I was able do with a total of 10 Enzyme-Jest tests checking all components for correct rendering. 
+  Here is a <a href="https://github.com/dflores112/EmployeeSearch">project</a> I worked on that I am proud of due to the short two day time frame where 95% of the application was built within the first day. I used MongoDB to store employee info and built the front end with React and Styled-Components. I am most proud of the testing I was able implement with a total of 10 Enzyme-Jest tests checking all components for correct rendering. 
 </p>
 <h2>Similar Homes 🏡 </h2>
 

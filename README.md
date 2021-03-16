@@ -38,7 +38,6 @@
 ---
 
 
-<p align='center'> Currently working on attaining my AWS Solutions Architect Associate certification. </p>
 
 
 <h2 align='center'><i>Stay hungry!</i></h2>
